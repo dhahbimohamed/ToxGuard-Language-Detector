@@ -1,4 +1,4 @@
-# 🔥 Flame Detector for Games
+# 🔥ToxGuard :  Flame Detector for Games
 
 ## 🎮 Why I Built This
 
@@ -12,7 +12,7 @@ This project uses **Machine Learning** to detect:
 Whether you're a game developer, a mod, or just someone tired of toxicity — this tool can help make games safer and chats cleaner.
 
 
-## 🚀 How to Run :  [Click here to open the live app][(https://predicttunisianhouserent-sdxmw825dhufuvl9vayeqd.streamlit.app/) ](https://toxguard-language-detector-qmke9pkvajz5by9idkhezj.streamlit.app/)
+## 🚀 How to Run :  [Click here to open the live app](https://toxguard-language-detector-qmke9pkvajz5by9idkhezj.streamlit.app/)
 
 
 ---
