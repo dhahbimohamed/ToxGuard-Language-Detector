@@ -277,8 +277,8 @@ st.markdown("""</div>""", unsafe_allow_html=True)
 st.markdown(
     """
     <div class="footer">
-        <p>© 2023 ToxGuard | Created by Dhahbi Mohamed</p>
-        <p>Powered by cutting-edge AI for gaming communities</p>
+        <p>© 2025 ToxGuard | Created by Dhahbi Mohamed</p>
+        <p>keep gaming communities safe and respectfull</p>
     </div>
     """,
     unsafe_allow_html=True
