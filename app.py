@@ -204,15 +204,15 @@ st.markdown(
         <div class="feature-card">
             <div class="feature-title">Real-time Analysis</div>
             <div class="feature-desc">
-                Instantly scans gaming chats for toxic content with high accuracy, 
+                Instantly scans gaming chats for toxic content with 87% accuracy, 
                 keeping your community safe during gameplay.
             </div>
         </div>
         <div class="feature-card">
             <div class="feature-title">Advanced Detection</div>
             <div class="feature-desc">
-                Trained on millions of gaming interactions to understand gaming-specific 
-                slang and context across multiple languages.
+                Trained a model to understand
+                slang and context across english language.
             </div>
         </div>
         <div class="feature-card">
